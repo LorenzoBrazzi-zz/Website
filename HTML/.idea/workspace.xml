@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a298aea-2158-4a7f-8c14-e4f066ca5bd9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lorenzobrazzi.github.io/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lorenzobrazzi.github.io/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +18,11 @@
     <session id="-1289618154">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.2" value="4" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="5" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,21 +48,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lorenzobrazzi.github.io/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="411" column="61" selection-start-line="411" selection-start-column="61" selection-end-line="411" selection-end-column="61" />
-              <folding>
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -70,7 +57,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lorenzobrazzi.github.io" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -129,6 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,16 +124,10 @@
               <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HTML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="lorenzobrazzi.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,15 +168,16 @@
       <workItem from="1542298539646" duration="122000" />
       <workItem from="1542349103775" duration="1502000" />
       <workItem from="1542366776836" duration="90000" />
+      <workItem from="1544794356620" duration="10000" />
+      <workItem from="1544794382353" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2460000" />
+    <option name="totallyTimeSpent" value="2487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17114569" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -223,16 +206,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/lorenzobrazzi.github.io/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="411" column="61" selection-start-line="411" selection-start-column="61" selection-end-line="411" selection-end-column="61" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lorenzobrazzi.github.io/index.html" />
   </component>
 </project>
